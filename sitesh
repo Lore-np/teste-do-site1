@@ -1,0 +1,31 @@
+
+<html>
+<head>
+<title>
+site aí
+
+</title></head>
+
+<body bgcolor="blue"> 
+
+<div style=color:white;>
+<div style=text-align:center;><h1>SIM</h1>
+ou
+<p>
+<h1>NÃO</h1>
+</p>
+
+<p>
+<input type="text"> 
+</p>
+
+<div widht:300%;>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTY9yaMrCMituLyB9BOvw6pX-yWbNyg9GqsOPkWBNEgYRHFcz5qWtGG-KbcGO8ZQLzAsY&usqp=CAU"
+</div>
+</div>
+
+</div>
+
+
+</body
+</html>
