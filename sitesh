@@ -7,14 +7,14 @@ site aí
 </title></head>
 
 <body bgcolor="azure"> 
-
+<font face="algerian">
 <div style=color:black;>
 <div style=text-align:center;><h1>praia</h1>
 ou
 <p>
 <h1>montanha</h1>
 </p>
-
+</font>
 <p>
 <input type="text"> 
 </p>
